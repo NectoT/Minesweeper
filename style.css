@@ -1,0 +1,19 @@
+#field {
+    display: flexbox;
+    flex-direction: column;
+}
+#field button {
+    width: 5%;
+    aspect-ratio: 1 / 1;
+    position: relative;
+    vertical-align: top;
+}
+
+#reset {
+    position: sticky;
+    bottom: 30px;
+}
+
+#reset input {
+    font-size: 50px;
+}
